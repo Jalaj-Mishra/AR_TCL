@@ -7,8 +7,11 @@
     "start": "node src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "jalaj",
   "license": "ISC",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "csv-writer": "^1.6.0",
